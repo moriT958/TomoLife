@@ -9,7 +9,7 @@
 - CSS Modules
 - Supabase
 
-## ディレクトリ構成の決定
+## ディレクトリ構成
 
 ```text
 src/
